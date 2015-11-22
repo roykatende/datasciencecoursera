@@ -17,3 +17,4 @@ get_inv <- function() var_inv
 list(var_set=var_set, var_get=var_get, set_inv=set_inv, get_inv=get_inv)
 
 }
+
